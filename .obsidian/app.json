@@ -4,5 +4,6 @@
   "spellcheckLanguages": [
     "en-US"
   ],
-  "strictLineBreaks": false
+  "strictLineBreaks": true,
+  "spellcheck": true
 }
