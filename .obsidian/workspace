@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "351e7805d2c9a659",
+    "type": "split",
+    "children": [
+      {
+        "id": "312b672bc2bbdb0d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tutorials/Tutorial_1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d932fe7f6cc63aaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b62e6c636ffc3ad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113470d7630693ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7b0dca0ce1046a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a628bc3264035d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e4ac67629961a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe982d750105f35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tutorials/Tutorial_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "312b672bc2bbdb0d",
+  "lastOpenFiles": [
+    "Tutorials/Tutorial_1.md"
+  ]
+}
