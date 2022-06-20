@@ -5,5 +5,11 @@
     "en-US"
   ],
   "strictLineBreaks": true,
-  "spellcheck": true
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

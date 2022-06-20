@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tutorials/Tutorial_1.md",
-            "mode": "source",
+            "file": "Study problems/Week1.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a628bc3264035d0c",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorials/Tutorial_1.md",
+                "file": "Study problems/Week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,8 @@
   },
   "active": "312b672bc2bbdb0d",
   "lastOpenFiles": [
-    "Tutorials/Tutorial_1.md"
+    "Study problems/Week1.md",
+    "Tutorials/Week1.md",
+    "README.md"
   ]
 }
